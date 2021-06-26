@@ -5,4 +5,5 @@
 layout: home
 ---
 {% post_url 2021-06-26-welcome-to-jekyll %}
-{% include button.html url = "/jekyll/update/2021/06/26/welcome-to-jekyll.html" %}
+{% include_relative button.html url = "/jekyll/update/2021/06/26/welcome-to-jekyll.html" %}
+<button>
