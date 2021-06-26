@@ -5,4 +5,5 @@
 layout: home
 ---
 {% post_url 2021-06-26-welcome-to-jekyll %}
-<button name="button" onclick= "https://stantana.github.io/jekyll/update/2021/06/26/welcome-to-jekyll.html">Bouh</button>
+<br>
+<button name="button" onclick="stantana.github.io/jekyll/update/2021/06/26/welcome-to-jekyll.html">Bouh</button>
