@@ -6,4 +6,4 @@ layout: home
 ---
 {% post_url 2021-06-26-welcome-to-jekyll %}
 {% include_relative button.html url = "/jekyll/update/2021/06/26/welcome-to-jekyll.html" %}
-<button>
+<button name="button" onclick="/jekyll/update/2021/06/26/welcome-to-jekyll.html">Bouh</button>
